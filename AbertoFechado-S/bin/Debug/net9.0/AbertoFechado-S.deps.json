@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AbertoFechado-S/1.0.0": {
+        "runtime": {
+          "AbertoFechado-S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbertoFechado-S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

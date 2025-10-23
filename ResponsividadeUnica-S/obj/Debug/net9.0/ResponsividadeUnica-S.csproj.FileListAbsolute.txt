@@ -1,0 +1,14 @@
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\bin\Debug\net9.0\ResponsividadeUnica-S.exe
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\bin\Debug\net9.0\ResponsividadeUnica-S.deps.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\bin\Debug\net9.0\ResponsividadeUnica-S.runtimeconfig.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\bin\Debug\net9.0\ResponsividadeUnica-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\bin\Debug\net9.0\ResponsividadeUnica-S.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.AssemblyInfoInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.AssemblyInfo.cs
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.csproj.CoreCompileInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\refint\ResponsividadeUnica-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ResponsividadeUnica-S.genruntimeconfig.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\ResponsividadeUnica-S\obj\Debug\net9.0\ref\ResponsividadeUnica-S.dll

@@ -1,0 +1,14 @@
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.AssemblyInfoInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.AssemblyInfo.cs
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.csproj.CoreCompileInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\bin\Debug\net9.0\InversaoDependencia-D.exe
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\bin\Debug\net9.0\InversaoDependencia-D.deps.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\bin\Debug\net9.0\InversaoDependencia-D.runtimeconfig.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\bin\Debug\net9.0\InversaoDependencia-D.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\bin\Debug\net9.0\InversaoDependencia-D.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\refint\InversaoDependencia-D.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\InversaoDependencia-D.genruntimeconfig.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\InversaoDependencia-D\obj\Debug\net9.0\ref\InversaoDependencia-D.dll

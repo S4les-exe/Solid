@@ -1,0 +1,14 @@
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.AssemblyInfoInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.AssemblyInfo.cs
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.csproj.CoreCompileInputs.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\bin\Debug\net9.0\AbertoFechado-S.exe
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\bin\Debug\net9.0\AbertoFechado-S.deps.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\bin\Debug\net9.0\AbertoFechado-S.runtimeconfig.json
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\bin\Debug\net9.0\AbertoFechado-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\bin\Debug\net9.0\AbertoFechado-S.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\refint\AbertoFechado-S.dll
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.pdb
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\AbertoFechado-S.genruntimeconfig.cache
+C:\Users\47132586874\Desktop\Atividade POO\Solid\AbertoFechado-S\obj\Debug\net9.0\ref\AbertoFechado-S.dll
